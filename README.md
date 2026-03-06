@@ -42,7 +42,7 @@ The dataset contains pizza sales transactions including:
 
 ## 📊 Dashboard Preview
 
-![Pizza Sales Dashboard](dashboard.png)
+![Pizza Sales Dashboard](PIZZA_SALES_DASHBOARD.png)
 
 ---
 
